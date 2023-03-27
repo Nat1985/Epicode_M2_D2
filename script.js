@@ -13,20 +13,19 @@ REGOLE
 
 /*I datatype principali in Javascript sono:
 1. String: le stringhe sono dati che vengono identificati come testo. Esse possono contenere lettere o numeri ma vengono comunque sempre intesi come caratteri testuali e vengono delimitati da doppie virgolette.
-2. Number: sono esattamente dei valori numerici. Vengono indicati senza doppie virgolette.
+2. Number: sono esattamente dei valori numerici. Vengono indicati senza doppie virgolette e con essi si possono eseguire operazioni matematiche.
 3. Valori booleani: i valori booleani sono entità logiche che possono essere o veri o falsi. Possiamo intenderli come degli interruttori che possono essere accesi o spenti. Su ON o su OFF. Grazie alle variabili booleane si possono determinare in modo semplice determinate condizioni utili al codice.
 4. Objects: sono valori formati da una key e un value, cioè un valore che ne identifica il tipo e un altro che ne identifica il valore stesso. ???
 
 */
 
-
-/* SCRIVI QUI LA TUA RISPOSTA */
-
 /* ESERCIZIO 2
  Descrivi cos'è un oggetto in JavaScript, con parole tue.
+
+/* Un oggetto in Javascript è un contenitore di informazioni. Possiamo definirlo come una variabile "più grande" e articolata che contiene diversi tipi di valori.
+All'interno di un oggetto le informazioni sono catalogate assegnando ad ognuna di essere una KEY e un VALUE. La key serve per identificare il tipo di informazione, essa viene utilizzata come "etichetta", mentre il VALUE è il valore stesso che è contenuto all'interno.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
